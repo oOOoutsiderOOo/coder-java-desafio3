@@ -1,0 +1,4 @@
+2022-12-20 22:52:44 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "[*]FECHA_DE_NACIMIENTO"
+Syntax error in SQL statement "[*]FECHA_DE_NACIMIENTO"; SQL statement:
+FECHA_DE_NACIMIENTO [42000-214]
